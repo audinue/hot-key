@@ -13,4 +13,4 @@ addEventListener('hot-key', function (e) {
 
 ## Note
 
-The detail is case sensitive. `Control+s` is different from `Control+S`. The latter means `Control+Shift+s`.
+The `detail` is case sensitive. `Control+s` is different from `Control+S`. The latter means `Control+Shift+s`.
