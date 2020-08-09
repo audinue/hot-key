@@ -5,8 +5,8 @@ addEventListener('keydown', function (e) {
     case 'Control':
     case 'Shift':
     case 'Alt':
-      key = e.key;
-      break;
+      key = e.key
+      break
     default:
       key = (e.metaKey ? 'Meta+' : '')
         + (e.ctrlKey ? 'Control+' : '')
